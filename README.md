@@ -1,1 +1,1 @@
-# eventcamera_detection
+# EventCamera Detection
