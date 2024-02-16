@@ -16,6 +16,6 @@
 
 
 # How to run locally
-- Simply install all Python dependencies, specified in `requirements.txt`. <br>
+- Simply install all Python dependencies, specified in `requirements.txt`: <br>
 `pip install -r requirements.txt`
 
