@@ -6,8 +6,8 @@
 
 
 <div style="display: flex;">
-  <img src=".github/satellite.jpeg" alt="image 1" style="margin-right: 10px;" height="300"/>
-  <img src=".github/demo.png" alt="image 2" style="margin-left: 10px;" height="300"/> 
+  <img src=".github/satellite.jpeg" alt="image 1" style="margin-right: 10px;" height="250"/>
+  <img src=".github/demo.png" alt="image 2" style="margin-left: 10px;" height="250"/> 
 </div>
 
 (Image Source: Valispace)
