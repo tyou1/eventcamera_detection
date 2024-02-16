@@ -18,3 +18,4 @@ _________
 # How to run locally
 - Simply install all Python dependencies, specified in requirements.txt.
    `pip install -r requirements.txt`
+
