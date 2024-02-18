@@ -10,7 +10,7 @@
   <img src=".github/demo.png" alt="image 2" style="margin-left: 20px;" height="250"/> 
 </div>
 
-Image: Spacecraft (Valispace), Detection of satellites
+Image: Spacecraft (Valispace), Detection of satellites in the video
 
 # What's in this repository
   In the `pipeline` folder, it contains:
